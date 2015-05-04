@@ -1,0 +1,35 @@
+﻿/* Reset */
+
+/* Global */
+body { background-color:#808080}
+/* Heading */
+
+/* Text Elements */
+
+/* Images */
+
+/* Lists */
+
+/* Table */
+
+/* Containers */
+
+#wrapper { width:1100px; margin:auto auto; background-color: #FFFFFF}
+#top	 { padding: 30px 0; overflow:hidden; background-color:#CCCCCC; }
+#logo	 { margin:0 0 0 10px; float:left}
+#signin	 { color:black; float:right; margin:4px 10px 4px 0px}
+#signin ul li { display:inline}
+#topnav	 { background-color:gray; }
+#topnav ul { width:1058px; float:left; margin:0px; background-color:#333333}
+#topnav ul li { display:inline}
+#topnav ul li a { float:left; padding:10px 20px}
+#topnav a:link {color: #ffffff}
+#topnav a:visited {color: #ffffff}
+#topnav a:active {color: #ffffff}
+#topnav a:hover {color: #ffffff; font-style:italic}
+#topnav a:focus {color: #ffffff}
+#banner
+#input
+#option	 
+#info
+#footer

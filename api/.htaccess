@@ -1,0 +1,9 @@
+
+Options +FollowSymLinks
+RewriteEngine On
+
+
+
+#RewriteRule ^(\w+)$ ./ss/index.php?name=$1 
+#RewriteRule ^(\w+)$ ./ss/index.php?name=$1 
+RewriteRule ^(\w+)$ ./ss/controller.php?name=$1 

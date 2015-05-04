@@ -1,0 +1,11 @@
+<Files .htaccess>
+order allow,deny
+</Files>
+
+Options +FollowSymLinks
+RewriteEngine On
+
+
+
+#RewriteRule ^(\w+)$ ./index.php?name=$1 
+#RewriteRule ^(\w+)$ controller.php?name=$1 
